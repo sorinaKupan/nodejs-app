@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sorinaKupan/nodejs-app/issues"
   },
-  "homepage": "https://github.com/sorinaKupan/nodejs-app#readme"
+  "homepage": "https://github.com/sorinaKupan/nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
